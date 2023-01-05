@@ -4,16 +4,14 @@
 - [YOLO V5란?](https://github.com/ultralytics/yolov5)
 
 ## Demo
-<img src="BottleCap-TestVideo](https://user-images.githubusercontent.com/82144756/210784153-5bae305b-3c95-4ad6-a46f-779488c598ac.gif">
+![BottleCap-TestVideo](https://user-images.githubusercontent.com/82144756/210784153-5bae305b-3c95-4ad6-a46f-779488c598ac.gif)
 
 ## Function.
 1. 정확히 일치하는 병뚜껑 객체별 분류
 2. 유사 색상 병뚜껑 객체끼리 분류(ex: 칠성사이다, 스프라이트와 같은 유사 초록색 병뚜껑은 같은 병뚜껑으로 간주)
 
 ## Tech Stack.
-<img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black">
-<img src="https://img.shields.io/badge/YOLO V5-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
+<img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"><img src="https://img.shields.io/badge/YOLO V5-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
 
 ## Notenook Settings.
 - Hardware Accelerator: GPU
