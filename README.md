@@ -13,7 +13,7 @@
 ## Tech Stack.
 <img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"><img src="https://img.shields.io/badge/YOLO V5-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
 
-## Notenook Settings.
+## Notebook Settings.
 - Hardware Accelerator: GPU
 - GPU Class: Premium
 - Runtime Shape: Standard
