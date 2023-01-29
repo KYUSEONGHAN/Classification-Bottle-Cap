@@ -11,6 +11,11 @@
 1. 정확히 일치하는 병뚜껑 객체별 분류
 2. 유사 색상 병뚜껑 객체끼리 분류(ex: 칠성사이다, 스프라이트와 같은 유사 초록색 병뚜껑은 같은 병뚜껑으로 간주)
 3. 병뚜껑 앞 뒤, 인식
+4. 손상된 병뚜껑인지 아닌지 체크 (정면에서 바라보았을 시, 원형인지 아닌지 1차 체크)
+![스크린샷 2023-01-29 오후 8 56 29](https://user-images.githubusercontent.com/82144756/215324469-719c2fba-fd06-47ed-b1df-805543f7eeaf.png)
+- circle detect! -> 1차 병뚜껑 손상체크  통과
+![스크린샷 2023-01-29 오후 8 56 10](https://user-images.githubusercontent.com/82144756/215324472-fb6cea28-91d8-49f6-9917-f512d859bbbe.png)
+- circle not detect -> 1차 병뚜껑 손상체크 통과X -> 훼손된 병뚜껑으로 간주
 
 ## Tech Stack.
 <img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"><img src="https://img.shields.io/badge/YOLO V5-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
