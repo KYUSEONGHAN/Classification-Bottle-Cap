@@ -16,6 +16,8 @@
 - circle detect! -> 1차 병뚜껑 손상체크  통과
 ![스크린샷 2023-01-29 오후 8 56 10](https://user-images.githubusercontent.com/82144756/215324472-fb6cea28-91d8-49f6-9917-f512d859bbbe.png)
 - circle not detect -> 1차 병뚜껑 손상체크 통과X -> 훼손된 병뚜껑으로 간주
+<img width="402" alt="스크린샷 2023-03-06 오후 3 19 36" src="https://user-images.githubusercontent.com/82144756/223050949-48815687-9f65-42b7-aebe-022efd96f798.png">
+- 병뚜껑 고무패킹 인식
 
 ## Tech Stack.
 <img src="https://img.shields.io/badge/Python 3.8-3776AB?style=for-the-badge&logo=Python&logoColor=white"><img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"><img src="https://img.shields.io/badge/YOLO V5-00FFFF?style=for-the-badge&logo=YOLO&logoColor=black">
