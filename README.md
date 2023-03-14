@@ -1,4 +1,8 @@
 # Classification-Bottle-Cap
+
+## 프로젝트 기획서
+- [링크](https://dent-pecorino-a20.notion.site/2023-a08520acad18455896ae7a6e6d740740)
+
 ## Purpose.
 - Webcam + YOLO V5를 활용하여 실시간으로 병뚜껑 객체 분류
 - [YOLO V5란?](https://github.com/ultralytics/yolov5)
